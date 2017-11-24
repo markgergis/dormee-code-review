@@ -1,3 +1,6 @@
+/**
+ * a component to hold a profile info in the profile screen
+ */
 import React from 'react';
 import { View, Text } from 'react-native';
 

@@ -1,3 +1,6 @@
+/**
+ * a textInput form for text with title  
+ */
 import React from 'react';
 import { View, Text, TextInput } from 'react-native';
 

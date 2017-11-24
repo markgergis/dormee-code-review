@@ -1,3 +1,6 @@
+/**
+ * A modal component made for image upload to act on touch as a slide up menu 
+ */
 import React, { Component } from 'react';
 import { View, Text, Modal, TouchableWithoutFeedback, Animated } from 'react-native';
 

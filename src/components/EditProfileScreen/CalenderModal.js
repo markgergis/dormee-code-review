@@ -1,3 +1,6 @@
+/**
+ * A modal component made for calenders to act on touch as a slide up menu 
+ */
 import React, { Component } from 'react';
 import { 
   View, 

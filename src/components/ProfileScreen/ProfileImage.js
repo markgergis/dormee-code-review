@@ -1,3 +1,6 @@
+/**
+ * a component to hold a profile image in the profile screen
+ */
 import React from 'react';
 import { View, Image, Text, TouchableWithoutFeedback } from 'react-native';
 

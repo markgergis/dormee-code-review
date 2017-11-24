@@ -1,3 +1,6 @@
+/**
+ * a component for showing the result of a modal picker 
+ */
 import React from 'react';
 import { View, Text, TouchableWithoutFeedback } from 'react-native';
 

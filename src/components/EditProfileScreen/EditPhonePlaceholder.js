@@ -1,3 +1,6 @@
+/**
+ * a textInput form for phone numbers with a number prefix place 
+ */
 import React from 'react';
 import { View, Text, TextInput } from 'react-native';
 
