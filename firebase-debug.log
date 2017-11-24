@@ -1,0 +1,28 @@
+[debug] [2017-10-13T00:01:21.618Z] ----------------------------------------------------------------------
+[debug] [2017-10-13T00:01:21.621Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-10-13T00:01:21.622Z] CLI Version:   3.13.1
+[debug] [2017-10-13T00:01:21.622Z] Platform:      darwin
+[debug] [2017-10-13T00:01:21.622Z] Node Version:  v6.11.1
+[debug] [2017-10-13T00:01:21.623Z] Time:          Fri Oct 13 2017 02:01:21 GMT+0200 (EET)
+[debug] [2017-10-13T00:01:21.623Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-13T00:01:21.646Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-10-13T00:01:21.646Z] > authorizing via signed-in user
+[debug] [2017-10-13T00:01:21.648Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/dormee-mobile-app  
+ Fri Oct 13 2017 02:01:21 GMT+0200 (EET)
+[debug] [2017-10-13T00:01:23.694Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-13T00:01:23.696Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/dormee-mobile-app/tokens  
+ Fri Oct 13 2017 02:01:23 GMT+0200 (EET)
+[debug] [2017-10-13T00:01:29.888Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/markragaee/Desktop/Projects/Dormee/dormee-mobile-app'...
+[info] 
+[debug] [2017-10-13T00:01:29.893Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/dormee-mobile-app  
+ Fri Oct 13 2017 02:01:29 GMT+0200 (EET)
+[debug] [2017-10-13T00:01:32.089Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-13T00:01:32.089Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/1017692570126/clients/_:getWebAppConfig  
+ Fri Oct 13 2017 02:01:32 GMT+0200 (EET)
+[debug] [2017-10-13T00:01:34.463Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: app
+[info] ✔  hosting: Local server: http://localhost:5000
+

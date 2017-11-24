@@ -1,0 +1,42 @@
+{
+  "name": "dormee-mobile-app",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "license": "",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/ex-navigation": "^3.0.0",
+    "@expo/vector-icons": "^5.0.0",
+    "axios": "^0.16.2",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "eslint-config-rallycoding": "^3.2.0",
+    "expo": "^21.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-21.0.2.tar.gz",
+    "firebase": "^4.5.0",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.10",
+    "react-native-calendar-select": "^0.1.1",
+    "react-native-datepicker": "^1.6.0",
+    "react-native-elements": "^0.13.0",
+    "react-native-elevated-view": "0.0.4",
+    "react-native-google-places-autocomplete": "^1.3.2",
+    "react-native-image-gallery": "^1.1.0",
+    "react-native-simple-progressbar": "git+https://github.com/httpdeveloper/react-native-simple-progressbar.git",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "jest-expo": "^21.0.0"
+  }
+}
